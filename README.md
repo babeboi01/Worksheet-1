@@ -138,7 +138,7 @@ asm_main:
     ret
 
 ```
-### output
+## output
     ![alt text](task1_output.png)
 
 ---
@@ -169,7 +169,7 @@ asm_main:
     ret
 
 ```
-### output
+## output
     ![alt text](task1_2_output.png)
 
 ---
@@ -205,7 +205,7 @@ asm_main:
     call print_nl
     ret
 ```
-### output
+## output
     ![alt text](task2_name_output.png)
 
 ---
@@ -247,7 +247,7 @@ asm_main:
     call print_nl
     ret
 ```
-### output
+## output
     ![alt text](task2_sum_output.png)
 
 ---
@@ -297,7 +297,7 @@ asm_main:
     call print_nl
     ret
 ```
-### output
+## output
     ![alt text](task2_range_sun_output.png)
 
 ---
