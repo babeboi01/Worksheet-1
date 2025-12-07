@@ -138,10 +138,8 @@ asm_main:
     ret
 
 ```
-### output
-
-    ![alt text](task1_output.png)
-
+output
+![alt text](doc/task1_output.png)
 ---
 
 # 🧪 TASK 1.2 — Print Two Messages
@@ -170,9 +168,8 @@ asm_main:
     ret
 
 ```
-### output
-
-    ![alt text](task1_2_output.png)
+output
+![alt text](doc/task1_2_output.png)
 
 ---
 
@@ -207,9 +204,8 @@ asm_main:
     call print_nl
     ret
 ```
-### output
-
-    ![alt text](task2_name_output.png)
+output
+![alt text](doc/task2_name_output.png)
 
 ---
 
@@ -250,9 +246,8 @@ asm_main:
     call print_nl
     ret
 ```
-### output
-
-    ![alt text](task2_sum_output.png)
+output
+![alt text](doc/task2_name_output.png)
 
 ---
 
@@ -301,10 +296,8 @@ asm_main:
     call print_nl
     ret
 ```
-### output
-```
-    ![alt text](task2_range_sun_output.png)
-```
+output
+![alt text](doc/task2_name_output.png)
 
 ---
 
