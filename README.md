@@ -302,8 +302,9 @@ asm_main:
     ret
 ```
 ### output
-
+```
     ![alt text](task2_range_sun_output.png)
+```
 
 ---
 
