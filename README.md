@@ -140,6 +140,7 @@ asm_main:
 ```
 output
 ![alt text](doc/task1_output.png)
+
 ---
 
 # 🧪 TASK 1.2 — Print Two Messages
@@ -247,7 +248,7 @@ asm_main:
     ret
 ```
 output
-![alt text](doc/task2_name_output.png)
+![alt text](doc/task2_sum_output.png)
 
 ---
 
@@ -297,7 +298,7 @@ asm_main:
     ret
 ```
 output
-![alt text](doc/task2_name_output.png)
+![alt text](doc/task2_range_sum_output.png)
 
 ---
 
